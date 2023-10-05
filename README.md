@@ -24,7 +24,7 @@ Desafie um amigo para uma partida emocionante do Jogo da Velha. Este é um jogo 
 
 ## Link Hospedado 🌐
 
-Você pode acessar o Jogo da Velha hospedado no GitHub Pages [aqui](https://eusoujao.github.io/Calculadora/).
+Você pode acessar o Jogo da Velha hospedado no GitHub Pages [aqui](https://eusoujao.github.io/Jogo-Da-Velha/).
 
 ## Contribuição 💡
 
